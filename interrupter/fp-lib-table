@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name interrupter)(type KiCad)(uri "$(KIPRJMOD)/interrupter.pretty")(options "")(descr ""))
+)

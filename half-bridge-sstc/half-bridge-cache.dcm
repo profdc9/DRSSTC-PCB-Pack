@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP tc4420
+D TC4420 Gate Drive IC
+$ENDCMP
+#
+$CMP ucc37321
+D UCC37321 Gate Drive IC
+$ENDCMP
+#
+#End Doc Library

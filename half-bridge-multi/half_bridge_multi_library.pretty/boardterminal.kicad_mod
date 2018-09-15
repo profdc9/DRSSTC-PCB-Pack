@@ -1,0 +1,9 @@
+(module boardterminal (layer F.Cu) (tedit 5AD3A784)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value boardterminal (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 10 10) (drill 5) (layers *.Cu *.Mask))
+)

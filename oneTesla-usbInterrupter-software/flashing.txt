@@ -1,0 +1,11 @@
+Here are the commands to flash your ATTINY85 with the OneTesla code:
+
+To set the fuse bits for 16 MHz internal oscillator:
+
+avrdude -v -pattiny85 -cusbtiny -D -U lfuse:w:0xe1:m
+
+To flash the code:
+
+avrdude -v -pattiny85 -cusbtiny -D -Uflash:w:main.hex:i make -
+
+Substitute "usbtiny" for your programmer, e.g. "arduino"

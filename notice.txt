@@ -1,0 +1,5 @@
+These are preliminary designs and are intended for evaluation only.
+Though an effort has been made to find and correct mistakes, 
+errors in the design may still be present.
+
+May 12, 2018
